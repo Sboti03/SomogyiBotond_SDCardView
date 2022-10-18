@@ -1,0 +1,52 @@
+.search-bar {
+    width: 50%;
+    height: 2em;
+}
+.card {
+    
+}
+
+.container.with-5 {
+    margin-top: 1em;
+    width: 50%;
+}
+
+.card {
+    padding: 1em;
+    margin: 1em;
+    background-color: aliceblue !important;
+    height: 90% !important;
+    max-width: 300px;
+}
+
+.sd-size-32 {
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+}
+.sd-size-64 {
+    color: rgb(114, 150, 111);
+    font-weight: 400;
+}
+.sd-size-128 {
+    color: rgb(94, 201, 84);
+    font-weight: 500;
+}
+.sd-size-256 {
+    color: rgb(13, 156, 0);
+    font-weight: 600;
+}
+.sd-size-512 {
+    color: rgb(15, 175, 0);
+    font-weight: 900;
+}
+
+.card-title {
+    font-weight: bold;
+    height: 80%;
+}
+
+
+.sd-filter {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
